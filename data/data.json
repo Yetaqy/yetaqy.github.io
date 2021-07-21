@@ -1,0 +1,24 @@
+{
+	"ticapi": {
+		"data": {
+			"First": [
+				"One",
+				"Two",
+				"Three",
+				"Four"
+			],
+			"Second": [
+				"One",
+				"Two",
+				"Three",
+				"Four"
+			],
+			"Third": [
+				"One",
+				"Two",
+				"Three",
+				"Four"
+			]
+		}
+	}
+}
